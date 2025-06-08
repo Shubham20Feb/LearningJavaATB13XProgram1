@@ -10,7 +10,7 @@ public class ScannerInput {
         System.out.print("What is your name ");
         Sc.nextLine();
         String Name = Sc.nextLine();
-        System.out.print("Enater the float value");
+        System.out.print("Enater the float value is this ");
         float sd = Sc.nextFloat();
         System.out.println("Hello " + Name + " Yor are " + a + " Year Old  " + "Float value  " + sd);
 
