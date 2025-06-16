@@ -39,6 +39,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2y4Ke96Dy8dU4SDU5zjjcDsaGfX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,11 +49,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Java001_Java_Basic.executor": "Run",
+    "Application.Java001_Veriable.executor": "Run",
     "Application.Java002_Java_Basic2.executor": "Run",
     "Application.Lab002ShortcutHw.executor": "Run",
     "Application.Lab004_Comment.executor": "Run",
+    "Application.Lab_01_Ternary.executor": "Run",
+    "Application.Lab_02_Ternary.executor": "Run",
+    "Application.Lab_03_TernaryMaxNo.executor": "Run",
+    "Application.Lab_03_TypeCasteing.executor": "Run",
+    "Application.Lab_04_TernaryMinNo.executor": "Run",
+    "Application.Lab_04_TypeCasteing.executor": "Run",
+    "Application.Lab_05_TernaryEveen.executor": "Run",
+    "Application.Lab_05_TypeCaseting.executor": "Run",
+    "Application.Lab_06_NestedTenaryAgeVarifaction.executor": "Run",
+    "Application.Lab_06_TypeCaseting.executor": "Run",
+    "Application.Lab_07_NestedTenaryOprate.executor": "Run",
+    "Application.Lab_Practice_01_Ternary.executor": "Run",
+    "Application.Lab_Practice_02_Ternary.executor": "Run",
+    "Application.Lab_Practice_03_Ternary.executor": "Run",
+    "Application.Lab_Practice_04_TypeCaseting.executor": "Run",
     "Application.Program1.executor": "Run",
     "Application.ScannerInput.executor": "Run",
+    "Application.ScannerInput1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -156,7 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749407099838</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Test1">
+      <option name="closed" value="true" />
+      <created>1749451378644</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749451378644</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Test1">
+      <option name="closed" value="true" />
+      <created>1749451508192</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749451508192</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
