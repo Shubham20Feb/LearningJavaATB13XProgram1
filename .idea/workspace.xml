@@ -53,38 +53,49 @@
     "Application.Java002_Java_Basic2.executor": "Run",
     "Application.Lab002ShortcutHw.executor": "Run",
     "Application.Lab004_Comment.executor": "Run",
+    "Application.Lab_01_ForLoop.executor": "Run",
     "Application.Lab_01_IfElse.executor": "Run",
     "Application.Lab_01_Increment_Op.executor": "Run",
     "Application.Lab_01_Switch.executor": "Run",
     "Application.Lab_01_Ternary.executor": "Run",
     "Application.Lab_01_UserInput_Cli.executor": "Run",
+    "Application.Lab_02_ForLoop.executor": "Run",
     "Application.Lab_02_IfElse_Cli.executor": "Run",
     "Application.Lab_02_Increment_Op.executor": "Run",
     "Application.Lab_02_Switch_WithOutBreak.executor": "Run",
     "Application.Lab_02_Ternary.executor": "Run",
     "Application.Lab_02_UserInput_Cli2.executor": "Run",
+    "Application.Lab_03_FoorEvenNo.executor": "Run",
     "Application.Lab_03_IfElse.executor": "Debug",
     "Application.Lab_03_Switch_NoDefault.executor": "Run",
     "Application.Lab_03_TernaryMaxNo.executor": "Run",
     "Application.Lab_03_TypeCasteing.executor": "Run",
     "Application.Lab_03_User_ScannerInput.executor": "Run",
+    "Application.Lab_04_FoorLoopDecrement.executor": "Run",
     "Application.Lab_04_Increment_Op.executor": "Run",
     "Application.Lab_04_Real_Switch_Automatio.executor": "Run",
     "Application.Lab_04_TernaryMinNo.executor": "Run",
     "Application.Lab_04_TypeCasteing.executor": "Run",
     "Application.Lab_04_User_ScannerInput.executor": "Run",
     "Application.Lab_05_Decrement_Op.executor": "Run",
+    "Application.Lab_05_FoorNaturalno.executor": "Run",
     "Application.Lab_05_TernaryEveen.executor": "Run",
     "Application.Lab_05_TypeCaseting.executor": "Run",
     "Application.Lab_06_Decrement_Op.executor": "Debug",
+    "Application.Lab_06_ForLoopEven.executor": "Run",
     "Application.Lab_06_Interview2.executor": "Run",
     "Application.Lab_06_NestedTenaryAgeVarifaction.executor": "Run",
     "Application.Lab_06_TypeCaseting.executor": "Run",
+    "Application.Lab_07_ForLoopOddNo.executor": "Run",
     "Application.Lab_07_NestedTenaryOprate.executor": "Run",
     "Application.Lab_07_TypeCasteing.executor": "Run",
+    "Application.Lab_08_FoorLoopReverse.executor": "Run",
     "Application.Lab_08_JDK13ABOVE.executor": "Run",
+    "Application.Lab_09_ForTable.executor": "Run",
     "Application.Lab_09_JDK.executor": "Run",
+    "Application.Lab_10_ForTable2.executor": "Run",
     "Application.Lab_10_Interview.executor": "Run",
+    "Application.Lab_11_ForSumOfNatural.executor": "Run",
     "Application.Lab_Practice_01_Ternary.executor": "Run",
     "Application.Lab_Practice_02_Ternary.executor": "Run",
     "Application.Lab_Practice_03_Ternary.executor": "Run",
@@ -104,13 +115,13 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_10_Interview">
-    <configuration name="Lab_04_Real_Switch_Automatio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab_04_Real_Switch_Automatio" />
+  <component name="RunManager" selected="Application.Lab_11_ForSumOfNatural">
+    <configuration name="Lab_07_ForLoopOddNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09_ForLoop.Lab_07_ForLoopOddNo" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_Switch.*" />
+          <option name="PATTERN" value="ex_09_ForLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_06_Interview2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab_06_Interview2" />
+    <configuration name="Lab_08_FoorLoopReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09_ForLoop.Lab_08_FoorLoopReverse" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_Switch.*" />
+          <option name="PATTERN" value="ex_09_ForLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_08_JDK13ABOVE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab_08_JDK13ABOVE" />
+    <configuration name="Lab_09_ForTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09_ForLoop.Lab_09_ForTable" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_Switch.*" />
+          <option name="PATTERN" value="ex_09_ForLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_09_JDK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab_09_JDK" />
+    <configuration name="Lab_10_ForTable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09_ForLoop.Lab_10_ForTable2" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_Switch.*" />
+          <option name="PATTERN" value="ex_09_ForLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_10_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_08_Switch.Lab_10_Interview" />
+    <configuration name="Lab_11_ForSumOfNatural" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_09_ForLoop.Lab_11_ForSumOfNatural" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_08_Switch.*" />
+          <option name="PATTERN" value="ex_09_ForLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,19 +201,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Lab_04_Real_Switch_Automatio" />
-      <item itemvalue="Application.Lab_06_Interview2" />
-      <item itemvalue="Application.Lab_08_JDK13ABOVE" />
-      <item itemvalue="Application.Lab_09_JDK" />
-      <item itemvalue="Application.Lab_10_Interview" />
+      <item itemvalue="Application.Lab_07_ForLoopOddNo" />
+      <item itemvalue="Application.Lab_08_FoorLoopReverse" />
+      <item itemvalue="Application.Lab_09_ForTable" />
+      <item itemvalue="Application.Lab_10_ForTable2" />
+      <item itemvalue="Application.Lab_11_ForSumOfNatural" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_10_Interview" />
-        <item itemvalue="Application.Lab_09_JDK" />
-        <item itemvalue="Application.Lab_08_JDK13ABOVE" />
-        <item itemvalue="Application.Lab_06_Interview2" />
-        <item itemvalue="Application.Lab_04_Real_Switch_Automatio" />
+        <item itemvalue="Application.Lab_11_ForSumOfNatural" />
+        <item itemvalue="Application.Lab_10_ForTable2" />
+        <item itemvalue="Application.Lab_09_ForTable" />
+        <item itemvalue="Application.Lab_08_FoorLoopReverse" />
+        <item itemvalue="Application.Lab_07_ForLoopOddNo" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750077655912</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Date16">
+      <option name="closed" value="true" />
+      <created>1750100393698</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1750100393701</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
