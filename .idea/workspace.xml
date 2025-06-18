@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="916a87df-2048-4f8d-ba12-a006f43af502" name="Changes" comment="Date16">
+    <list default="true" id="916a87df-2048-4f8d-ba12-a006f43af502" name="Changes" comment="Date18">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,17 +56,20 @@
     "Application.Lab_01_ForLoop.executor": "Run",
     "Application.Lab_01_IfElse.executor": "Run",
     "Application.Lab_01_Increment_Op.executor": "Run",
+    "Application.Lab_01_PrintNoFrom_1_to_10.executor": "Run",
     "Application.Lab_01_Switch.executor": "Run",
     "Application.Lab_01_Ternary.executor": "Run",
     "Application.Lab_01_UserInput_Cli.executor": "Run",
     "Application.Lab_02_ForLoop.executor": "Run",
     "Application.Lab_02_IfElse_Cli.executor": "Run",
     "Application.Lab_02_Increment_Op.executor": "Run",
+    "Application.Lab_02_PrintEvenfrom_2_to_20.executor": "Run",
     "Application.Lab_02_Switch_WithOutBreak.executor": "Run",
     "Application.Lab_02_Ternary.executor": "Run",
     "Application.Lab_02_UserInput_Cli2.executor": "Run",
     "Application.Lab_03_FoorEvenNo.executor": "Run",
     "Application.Lab_03_IfElse.executor": "Debug",
+    "Application.Lab_03_PrintOddNoFrom2_to_20.executor": "Run",
     "Application.Lab_03_Switch_NoDefault.executor": "Run",
     "Application.Lab_03_TernaryMaxNo.executor": "Run",
     "Application.Lab_03_TypeCasteing.executor": "Run",
@@ -74,28 +77,37 @@
     "Application.Lab_04_FoorLoopDecrement.executor": "Run",
     "Application.Lab_04_Increment_Op.executor": "Run",
     "Application.Lab_04_Real_Switch_Automatio.executor": "Run",
+    "Application.Lab_04_Sumoffirst_10_NaturalNo.executor": "Run",
     "Application.Lab_04_TernaryMinNo.executor": "Run",
     "Application.Lab_04_TypeCasteing.executor": "Run",
     "Application.Lab_04_User_ScannerInput.executor": "Run",
     "Application.Lab_05_Decrement_Op.executor": "Run",
     "Application.Lab_05_FoorNaturalno.executor": "Run",
+    "Application.Lab_05_SubtractofNatural_no.executor": "Run",
     "Application.Lab_05_TernaryEveen.executor": "Run",
     "Application.Lab_05_TypeCaseting.executor": "Run",
     "Application.Lab_06_Decrement_Op.executor": "Debug",
     "Application.Lab_06_ForLoopEven.executor": "Run",
     "Application.Lab_06_Interview2.executor": "Run",
     "Application.Lab_06_NestedTenaryAgeVarifaction.executor": "Run",
+    "Application.Lab_06_PrintNoInReverse_Order.executor": "Run",
     "Application.Lab_06_TypeCaseting.executor": "Run",
     "Application.Lab_07_ForLoopOddNo.executor": "Run",
+    "Application.Lab_07_MultiplicationofTable_5.executor": "Run",
     "Application.Lab_07_NestedTenaryOprate.executor": "Run",
     "Application.Lab_07_TypeCasteing.executor": "Run",
+    "Application.Lab_08_CoutDigit_In_No.executor": "Run",
     "Application.Lab_08_FoorLoopReverse.executor": "Run",
     "Application.Lab_08_JDK13ABOVE.executor": "Run",
     "Application.Lab_09_ForTable.executor": "Run",
     "Application.Lab_09_JDK.executor": "Run",
+    "Application.Lab_09_ReversetheNo.executor": "Run",
     "Application.Lab_10_ForTable2.executor": "Run",
     "Application.Lab_10_Interview.executor": "Run",
+    "Application.Lab_10_PalindoramNo.executor": "Run",
     "Application.Lab_11_ForSumOfNatural.executor": "Run",
+    "Application.Lab_12_ForVobule.executor": "Run",
+    "Application.Lab_13_Switch_Voble.executor": "Run",
     "Application.Lab_Practice_01_Ternary.executor": "Run",
     "Application.Lab_Practice_02_Ternary.executor": "Run",
     "Application.Lab_Practice_03_Ternary.executor": "Run",
@@ -115,13 +127,13 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_11_ForSumOfNatural">
-    <configuration name="Lab_07_ForLoopOddNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_09_ForLoop.Lab_07_ForLoopOddNo" />
+  <component name="RunManager" selected="Application.Lab_10_PalindoramNo">
+    <configuration name="Lab_06_PrintNoInReverse_Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_ProblemSolveing.Lab_06_PrintNoInReverse_Order" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_09_ForLoop.*" />
+          <option name="PATTERN" value="ex_10_ProblemSolveing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_08_FoorLoopReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_09_ForLoop.Lab_08_FoorLoopReverse" />
+    <configuration name="Lab_07_MultiplicationofTable_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_ProblemSolveing.Lab_07_MultiplicationofTable_5" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_09_ForLoop.*" />
+          <option name="PATTERN" value="ex_10_ProblemSolveing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_09_ForTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_09_ForLoop.Lab_09_ForTable" />
+    <configuration name="Lab_08_CoutDigit_In_No" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_ProblemSolveing.Lab_08_CoutDigit_In_No" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_09_ForLoop.*" />
+          <option name="PATTERN" value="ex_10_ProblemSolveing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_10_ForTable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_09_ForLoop.Lab_10_ForTable2" />
+    <configuration name="Lab_09_ReversetheNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_ProblemSolveing.Lab_09_ReversetheNo" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_09_ForLoop.*" />
+          <option name="PATTERN" value="ex_10_ProblemSolveing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_11_ForSumOfNatural" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_09_ForLoop.Lab_11_ForSumOfNatural" />
+    <configuration name="Lab_10_PalindoramNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_ProblemSolveing.Lab_10_PalindoramNo" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_09_ForLoop.*" />
+          <option name="PATTERN" value="ex_10_ProblemSolveing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,19 +213,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Lab_07_ForLoopOddNo" />
-      <item itemvalue="Application.Lab_08_FoorLoopReverse" />
-      <item itemvalue="Application.Lab_09_ForTable" />
-      <item itemvalue="Application.Lab_10_ForTable2" />
-      <item itemvalue="Application.Lab_11_ForSumOfNatural" />
+      <item itemvalue="Application.Lab_06_PrintNoInReverse_Order" />
+      <item itemvalue="Application.Lab_07_MultiplicationofTable_5" />
+      <item itemvalue="Application.Lab_08_CoutDigit_In_No" />
+      <item itemvalue="Application.Lab_09_ReversetheNo" />
+      <item itemvalue="Application.Lab_10_PalindoramNo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_11_ForSumOfNatural" />
-        <item itemvalue="Application.Lab_10_ForTable2" />
-        <item itemvalue="Application.Lab_09_ForTable" />
-        <item itemvalue="Application.Lab_08_FoorLoopReverse" />
-        <item itemvalue="Application.Lab_07_ForLoopOddNo" />
+        <item itemvalue="Application.Lab_10_PalindoramNo" />
+        <item itemvalue="Application.Lab_08_CoutDigit_In_No" />
+        <item itemvalue="Application.Lab_09_ReversetheNo" />
+        <item itemvalue="Application.Lab_07_MultiplicationofTable_5" />
+        <item itemvalue="Application.Lab_06_PrintNoInReverse_Order" />
       </list>
     </recent_temporary>
   </component>
@@ -337,7 +349,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750100393701</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Date18">
+      <option name="closed" value="true" />
+      <created>1750185695332</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1750185695332</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Date18">
+      <option name="closed" value="true" />
+      <created>1750185712368</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1750185712368</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,7 +384,8 @@
     <MESSAGE value="Test2" />
     <MESSAGE value="Test1" />
     <MESSAGE value="Date16" />
-    <option name="LAST_COMMIT_MESSAGE" value="Date16" />
+    <MESSAGE value="Date18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
