@@ -56,6 +56,7 @@
     "Application.Lab_01_ForLoop.executor": "Run",
     "Application.Lab_01_IfElse.executor": "Run",
     "Application.Lab_01_Increment_Op.executor": "Run",
+    "Application.Lab_01_Method_Function.executor": "Run",
     "Application.Lab_01_PrintNoFrom_1_to_10.executor": "Run",
     "Application.Lab_01_Switch.executor": "Run",
     "Application.Lab_01_Ternary.executor": "Run",
@@ -73,8 +74,10 @@
     "Application.Lab_03_Switch_NoDefault.executor": "Run",
     "Application.Lab_03_TernaryMaxNo.executor": "Run",
     "Application.Lab_03_TypeCasteing.executor": "Run",
+    "Application.Lab_03_UserDefineFunction.executor": "Run",
     "Application.Lab_03_User_ScannerInput.executor": "Run",
     "Application.Lab_04_FoorLoopDecrement.executor": "Run",
+    "Application.Lab_04_FunctionInterviewQuestion.executor": "Run",
     "Application.Lab_04_Increment_Op.executor": "Run",
     "Application.Lab_04_Real_Switch_Automatio.executor": "Run",
     "Application.Lab_04_Sumoffirst_10_NaturalNo.executor": "Run",
@@ -106,12 +109,16 @@
     "Application.Lab_10_Interview.executor": "Run",
     "Application.Lab_10_PalindoramNo.executor": "Run",
     "Application.Lab_11_ForSumOfNatural.executor": "Run",
+    "Application.Lab_11_GradeMarkes.executor": "Run",
+    "Application.Lab_11_Leapyear.executor": "Run",
     "Application.Lab_12_ForVobule.executor": "Run",
+    "Application.Lab_13_MarkesToGrade_Switch.executor": "Run",
     "Application.Lab_13_Switch_Voble.executor": "Run",
     "Application.Lab_Practice_01_Ternary.executor": "Run",
     "Application.Lab_Practice_02_Ternary.executor": "Run",
     "Application.Lab_Practice_03_Ternary.executor": "Run",
     "Application.Lab_Practice_04_TypeCaseting.executor": "Run",
+    "Application.Lab_UD_Part1.executor": "Run",
     "Application.Program1.executor": "Run",
     "Application.ScannerInput.executor": "Run",
     "Application.ScannerInput1.executor": "Run",
@@ -127,9 +134,48 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_10_PalindoramNo">
-    <configuration name="Lab_06_PrintNoInReverse_Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_ProblemSolveing.Lab_06_PrintNoInReverse_Order" />
+  <component name="RunManager" selected="Application.Lab_04_FunctionInterviewQuestion">
+    <configuration name="Lab_01_Method_Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_Functions.Lab_01_Method_Function" />
+      <module name="LearningJavaATB13XProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_11_Functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_03_UserDefineFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_Functions.Lab_03_UserDefineFunction" />
+      <module name="LearningJavaATB13XProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_11_Functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_04_FunctionInterviewQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_Functions.Lab_04_FunctionInterviewQuestion" />
+      <module name="LearningJavaATB13XProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_11_Functions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_13_MarkesToGrade_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_ProblemSolveing.Lab_13_MarkesToGrade_Switch" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
@@ -141,51 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_07_MultiplicationofTable_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_ProblemSolveing.Lab_07_MultiplicationofTable_5" />
+    <configuration name="Lab_UD_Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_11_Functions.Lab_UD_Part1" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_10_ProblemSolveing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_08_CoutDigit_In_No" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_ProblemSolveing.Lab_08_CoutDigit_In_No" />
-      <module name="LearningJavaATB13XProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_10_ProblemSolveing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_09_ReversetheNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_ProblemSolveing.Lab_09_ReversetheNo" />
-      <module name="LearningJavaATB13XProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_10_ProblemSolveing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_10_PalindoramNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_ProblemSolveing.Lab_10_PalindoramNo" />
-      <module name="LearningJavaATB13XProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_10_ProblemSolveing.*" />
+          <option name="PATTERN" value="ex_11_Functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,19 +220,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Lab_06_PrintNoInReverse_Order" />
-      <item itemvalue="Application.Lab_07_MultiplicationofTable_5" />
-      <item itemvalue="Application.Lab_08_CoutDigit_In_No" />
-      <item itemvalue="Application.Lab_09_ReversetheNo" />
-      <item itemvalue="Application.Lab_10_PalindoramNo" />
+      <item itemvalue="Application.Lab_01_Method_Function" />
+      <item itemvalue="Application.Lab_03_UserDefineFunction" />
+      <item itemvalue="Application.Lab_04_FunctionInterviewQuestion" />
+      <item itemvalue="Application.Lab_13_MarkesToGrade_Switch" />
+      <item itemvalue="Application.Lab_UD_Part1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_10_PalindoramNo" />
-        <item itemvalue="Application.Lab_08_CoutDigit_In_No" />
-        <item itemvalue="Application.Lab_09_ReversetheNo" />
-        <item itemvalue="Application.Lab_07_MultiplicationofTable_5" />
-        <item itemvalue="Application.Lab_06_PrintNoInReverse_Order" />
+        <item itemvalue="Application.Lab_04_FunctionInterviewQuestion" />
+        <item itemvalue="Application.Lab_UD_Part1" />
+        <item itemvalue="Application.Lab_03_UserDefineFunction" />
+        <item itemvalue="Application.Lab_01_Method_Function" />
+        <item itemvalue="Application.Lab_13_MarkesToGrade_Switch" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750185712368</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Date18">
+      <option name="closed" value="true" />
+      <created>1750267354266</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1750267354266</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
