@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="916a87df-2048-4f8d-ba12-a006f43af502" name="Changes" comment="Date 24">
+    <list default="true" id="916a87df-2048-4f8d-ba12-a006f43af502" name="Changes" comment="Date 25">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,8 +144,11 @@
     "Application.Lab_UD_Part1.executor": "Run",
     "Application.Lab_Vowel_Or_Consonent.executor": "Run",
     "Application.Program1.executor": "Run",
+    "Application.Question_1_Basic_String.executor": "Run",
     "Application.ScannerInput.executor": "Run",
     "Application.ScannerInput1.executor": "Run",
+    "Application.Test_Q_1_Basic_String.executor": "Run",
+    "Application.Test_Q_2_Compare_String.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -158,67 +161,59 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_11_ArrayCopy">
-    <configuration name="Lab_07_Sum_OfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Array.Lab_07_Sum_OfArray" />
-      <module name="LearningJavaATB13XProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13_Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_08_2ND_LargestNoOf_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Array.Lab_08_2ND_LargestNoOf_Array" />
-      <module name="LearningJavaATB13XProgram" />
-      <option name="PROGRAM_PARAMETERS" value="13,67,87" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13_Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_09_CLI_StringArray_ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Array.Lab_09_CLI_StringArray_ForEach" />
-      <module name="LearningJavaATB13XProgram" />
-      <option name="PROGRAM_PARAMETERS" value="16 87 89" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13_Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab_10_Array_FindElement_Linear_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13_Array.Lab_10_Array_FindElement_Linear_Search" />
-      <module name="LearningJavaATB13XProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13_Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test_Q_3_Performance">
     <configuration name="Lab_11_ArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_13_Array.Lab_11_ArrayCopy" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_13_Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_1_Basic_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Question_1_Basic_String" />
+      <module name="LearningJavaATB13XProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Q_1_Basic_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Test_26_String.Test_Q_1_Basic_String" />
+      <module name="LearningJavaATB13XProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_Test_26_String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Q_2_Compare_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Test_26_String.Test_Q_2_Compare_String" />
+      <module name="LearningJavaATB13XProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_Test_26_String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Q_3_Performance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_Test_26_String.Test_Q_3_Performance" />
+      <module name="LearningJavaATB13XProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_Test_26_String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,19 +241,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Lab_10_Array_FindElement_Linear_Search" />
+      <item itemvalue="Application.Question_1_Basic_String" />
+      <item itemvalue="Application.Test_Q_1_Basic_String" />
+      <item itemvalue="Application.Test_Q_2_Compare_String" />
+      <item itemvalue="Application.Test_Q_3_Performance" />
       <item itemvalue="Application.Lab_11_ArrayCopy" />
-      <item itemvalue="Application.Lab_09_CLI_StringArray_ForEach" />
-      <item itemvalue="Application.Lab_07_Sum_OfArray" />
-      <item itemvalue="Application.Lab_08_2ND_LargestNoOf_Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test_Q_3_Performance" />
+        <item itemvalue="Application.Test_Q_2_Compare_String" />
+        <item itemvalue="Application.Test_Q_1_Basic_String" />
+        <item itemvalue="Application.Question_1_Basic_String" />
         <item itemvalue="Application.Lab_11_ArrayCopy" />
-        <item itemvalue="Application.Lab_10_Array_FindElement_Linear_Search" />
-        <item itemvalue="Application.Lab_09_CLI_StringArray_ForEach" />
-        <item itemvalue="Application.Lab_08_2ND_LargestNoOf_Array" />
-        <item itemvalue="Application.Lab_07_Sum_OfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +417,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750704066613</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Date 25">
+      <option name="closed" value="true" />
+      <created>1750859231078</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1750859231078</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,7 +446,8 @@
     <MESSAGE value="Date16" />
     <MESSAGE value="Date18" />
     <MESSAGE value="Date 24" />
-    <option name="LAST_COMMIT_MESSAGE" value="Date 24" />
+    <MESSAGE value="Date 25" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date 25" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
