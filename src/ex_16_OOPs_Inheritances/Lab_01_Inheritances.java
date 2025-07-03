@@ -1,5 +1,9 @@
 package ex_16_OOPs_Inheritances;
 
+import ex_16_OOPs_Inheritances.Single_Inheritances.Lab_02_CommonToAll;
+import ex_16_OOPs_Inheritances.Single_Inheritances.TestCase1;
+import ex_16_OOPs_Inheritances.Single_Inheritances.TestCase2;
+
 public class Lab_01_Inheritances {
     public static void main(String[] args) {
         Father f1 = new Father();
@@ -10,6 +14,12 @@ public class Lab_01_Inheritances {
         System.out.println(s1.gold);
         s1.bhk2();
         s1.bhk3();
+
+
+        // below one is not posible  , it is showing that when father is born chil is allredy there
+      //  TestCase2 j5 = new Lab_02_CommonToAll();
+
+
 
     }
 
