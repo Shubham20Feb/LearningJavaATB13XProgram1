@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="916a87df-2048-4f8d-ba12-a006f43af502" name="Changes" comment="Date 03">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_16_OOPs_Inheritances/Lab_01_Inheritances.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_16_OOPs_Inheritances/Lab_01_Inheritances.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_16_OOPs_Inheritances/Single_Inheritances/Lab_02_SingleInheritances_RealEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_16_OOPs_Inheritances/Single_Inheritances/Lab_SingleInheritances_RealEx.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +54,8 @@
     "Application.Java002_Java_Basic2.executor": "Run",
     "Application.Lab002ShortcutHw.executor": "Run",
     "Application.Lab004_Comment.executor": "Run",
+    "Application.Lab_01_Abstraction.executor": "Run",
+    "Application.Lab_01_Animal_Sound.executor": "Run",
     "Application.Lab_01_ForLoop.executor": "Run",
     "Application.Lab_01_Hierarchical.executor": "Run",
     "Application.Lab_01_IfElse.executor": "Run",
@@ -69,7 +69,11 @@
     "Application.Lab_01_Switch.executor": "Run",
     "Application.Lab_01_Ternary.executor": "Run",
     "Application.Lab_01_UserInput_Cli.executor": "Run",
+    "Application.Lab_01_static_IIB.executor": "Run",
+    "Application.Lab_02_Abstraction_AB_Car.executor": "Run",
     "Application.Lab_02_Array.executor": "Run",
+    "Application.Lab_02_Bank_Interest_Calculation.executor": "Run",
+    "Application.Lab_02_Car_Practical_Interface.executor": "Run",
     "Application.Lab_02_ForLoop.executor": "Run",
     "Application.Lab_02_IfElse_Cli.executor": "Run",
     "Application.Lab_02_Increment_Op.executor": "Run",
@@ -82,8 +86,10 @@
     "Application.Lab_02_Ternary.executor": "Run",
     "Application.Lab_02_UserInput_Cli2.executor": "Run",
     "Application.Lab_03_Array.executor": "Run",
+    "Application.Lab_03_Constructor.executor": "Run",
     "Application.Lab_03_FoorEvenNo.executor": "Run",
     "Application.Lab_03_IfElse.executor": "Debug",
+    "Application.Lab_03_Multiple_Inheritances_InterfaceExample.executor": "Run",
     "Application.Lab_03_PrintOddNoFrom2_to_20.executor": "Run",
     "Application.Lab_03_Switch_NoDefault.executor": "Run",
     "Application.Lab_03_TernaryMaxNo.executor": "Run",
@@ -91,6 +97,7 @@
     "Application.Lab_03_UserDefineFunction.executor": "Run",
     "Application.Lab_03_User_ScannerInput.executor": "Run",
     "Application.Lab_03_WebAutomation.executor": "Run",
+    "Application.Lab_04_Abstract_VS_ConcereteMethod.executor": "Run",
     "Application.Lab_04_Array_Print.executor": "Run",
     "Application.Lab_04_Calculator.executor": "Run",
     "Application.Lab_04_FoorLoopDecrement.executor": "Run",
@@ -103,12 +110,14 @@
     "Application.Lab_04_User_ScannerInput.executor": "Run",
     "Application.Lab_05_Decrement_Op.executor": "Run",
     "Application.Lab_05_FoorNaturalno.executor": "Run",
+    "Application.Lab_05_Multiple_Inheritance_Using_Interfaces.executor": "Run",
     "Application.Lab_05_Scanner_Array.executor": "Run",
     "Application.Lab_05_SubtractofNatural_no.executor": "Run",
     "Application.Lab_05_TernaryEveen.executor": "Run",
     "Application.Lab_05_TypeCaseting.executor": "Run",
     "Application.Lab_06_Decrement_Op.executor": "Debug",
     "Application.Lab_06_ForLoopEven.executor": "Run",
+    "Application.Lab_06_Interface_Default_and_Static_Method.executor": "Run",
     "Application.Lab_06_Interview2.executor": "Run",
     "Application.Lab_06_NestedTenaryAgeVarifaction.executor": "Run",
     "Application.Lab_06_PrintNoInReverse_Order.executor": "Run",
@@ -178,13 +187,13 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_02_MethodOverRiding_Automation">
-    <configuration name="Lab_01_Hierarchical" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_16_OOPs_Inheritances.hierarchical.Lab_01_Hierarchical" />
+  <component name="RunManager" selected="Application.Lab_06_Interface_Default_and_Static_Method">
+    <configuration name="Lab_02_Bank_Interest_Calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_Date_07_Abstract.Lab_02_Bank_Interest_Calculation" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_16_OOPs_Inheritances.hierarchical.*" />
+          <option name="PATTERN" value="task_Date_07_Abstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_01_OverRiding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_OOPs_Polymorphism.MethodOverRiding.Lab_01_OverRiding" />
+    <configuration name="Lab_03_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_Date_07_Abstract.Lab_03_Constructor" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_OOPs_Polymorphism.MethodOverRiding.*" />
+          <option name="PATTERN" value="task_Date_07_Abstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_02_MethodOverRiding_Automation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_OOPs_Polymorphism.MethodOverRiding.Lab_02_MethodOverRiding_Automation" />
+    <configuration name="Lab_04_Abstract_VS_ConcereteMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_Date_07_Abstract.Lab_04_Abstract_VS_ConcereteMethod" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_OOPs_Polymorphism.MethodOverRiding.*" />
+          <option name="PATTERN" value="task_Date_07_Abstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_03_WebAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_OOPs_Polymorphism.MethodOverLoading.Lab_03_WebAutomation" />
+    <configuration name="Lab_05_Multiple_Inheritance_Using_Interfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_Date_07_Abstract.Lab_05_Multiple_Inheritance_Using_Interfaces" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_OOPs_Polymorphism.MethodOverLoading.*" />
+          <option name="PATTERN" value="task_Date_07_Abstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_04_Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_OOPs_Polymorphism.MethodOverLoading.Lab_04_Calculator" />
+    <configuration name="Lab_06_Interface_Default_and_Static_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_Date_07_Abstract.Lab_06_Interface_Default_and_Static_Method" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_OOPs_Polymorphism.MethodOverLoading.*" />
+          <option name="PATTERN" value="task_Date_07_Abstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,19 +273,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Lab_01_Hierarchical" />
-      <item itemvalue="Application.Lab_01_OverRiding" />
-      <item itemvalue="Application.Lab_02_MethodOverRiding_Automation" />
-      <item itemvalue="Application.Lab_03_WebAutomation" />
-      <item itemvalue="Application.Lab_04_Calculator" />
+      <item itemvalue="Application.Lab_02_Bank_Interest_Calculation" />
+      <item itemvalue="Application.Lab_03_Constructor" />
+      <item itemvalue="Application.Lab_04_Abstract_VS_ConcereteMethod" />
+      <item itemvalue="Application.Lab_05_Multiple_Inheritance_Using_Interfaces" />
+      <item itemvalue="Application.Lab_06_Interface_Default_and_Static_Method" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_02_MethodOverRiding_Automation" />
-        <item itemvalue="Application.Lab_01_OverRiding" />
-        <item itemvalue="Application.Lab_04_Calculator" />
-        <item itemvalue="Application.Lab_03_WebAutomation" />
-        <item itemvalue="Application.Lab_01_Hierarchical" />
+        <item itemvalue="Application.Lab_06_Interface_Default_and_Static_Method" />
+        <item itemvalue="Application.Lab_05_Multiple_Inheritance_Using_Interfaces" />
+        <item itemvalue="Application.Lab_04_Abstract_VS_ConcereteMethod" />
+        <item itemvalue="Application.Lab_03_Constructor" />
+        <item itemvalue="Application.Lab_02_Bank_Interest_Calculation" />
       </list>
     </recent_temporary>
   </component>
@@ -472,7 +481,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751517936432</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Date 03">
+      <option name="closed" value="true" />
+      <created>1751569284251</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1751569284251</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
