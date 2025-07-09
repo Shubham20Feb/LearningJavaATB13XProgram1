@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="916a87df-2048-4f8d-ba12-a006f43af502" name="Changes" comment="Date 03" />
+    <list default="true" id="916a87df-2048-4f8d-ba12-a006f43af502" name="Changes" comment="Date 01-08">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -30,7 +33,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Shubham20Feb/LearningJavaATB13XProgram1.git&quot;,
-    &quot;accountId&quot;: &quot;11ef7bae-a0f2-488a-8c16-af7f4e379f77&quot;
+    &quot;accountId&quot;: &quot;4102f810-5d7b-4fa1-b52f-c6eb65d8d931&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -44,153 +47,173 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Java001_Java_Basic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java001_Veriable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java002_Java_Basic2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab002ShortcutHw.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab004_Comment.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_Abstraction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_Animal_Sound.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_Hierarchical.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_IfElse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_Increment_Op.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_Inheritances.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_MaxandMin.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab_01_Method_Function.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_OverRiding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_PrintNoFrom_1_to_10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_StringBilder_VS_Buffer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_Ternary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_UserInput_Cli.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_01_static_IIB.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_Abstraction_AB_Car.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_Bank_Interest_Calculation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_Car_Practical_Interface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_IfElse_Cli.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_Increment_Op.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_MethodOverRiding_Automation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_MultileveInheritances.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_PrintEvenfrom_2_to_20.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_SingleInheritances_RealEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_StringBuffer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_Switch_WithOutBreak.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_Ternary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_02_UserInput_Cli2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_03_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_03_Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_03_FoorEvenNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_03_IfElse.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab_03_Multiple_Inheritances_InterfaceExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_03_PrintOddNoFrom2_to_20.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_03_Switch_NoDefault.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_03_TernaryMaxNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_03_TypeCasteing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_03_UserDefineFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_03_User_ScannerInput.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_03_WebAutomation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_04_Abstract_VS_ConcereteMethod.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_04_Array_Print.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_04_Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_04_FoorLoopDecrement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_04_FunctionInterviewQuestion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_04_Increment_Op.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_04_Real_Switch_Automatio.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_04_Sumoffirst_10_NaturalNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_04_TernaryMinNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_04_TypeCasteing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_04_User_ScannerInput.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_05_Decrement_Op.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_05_FoorNaturalno.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_05_Multiple_Inheritance_Using_Interfaces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_05_Scanner_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_05_SubtractofNatural_no.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_05_TernaryEveen.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_05_TypeCaseting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_06_Decrement_Op.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab_06_ForLoopEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_06_Interface_Default_and_Static_Method.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_06_Interview2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_06_NestedTenaryAgeVarifaction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_06_PrintNoInReverse_Order.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_06_Reverse_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_06_TypeCaseting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_07_ForLoopOddNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_07_MultiplicationofTable_5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_07_NestedTenaryOprate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_07_Sum_OfArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_07_TypeCasteing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_08_2ND_LargestNoOf_Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_08_CoutDigit_In_No.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_08_FoorLoopReverse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_08_JDK13ABOVE.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_09_CLI_StringArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_09_CLI_StringArray_ForEach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_09_ForTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_09_JDK.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_09_ReversetheNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_10_Array_FindElement_Linear_Search.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_10_ForTable2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_10_Interview.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_10_PalindoramNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_11_ArrayCopy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_11_ForSumOfNatural.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_11_GradeMarkes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_11_Leapyear.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_12_ForVobule.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_13_MarkesToGrade_Switch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_13_Switch_Voble.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_15_2D_Array_Iteration_ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_15_2D_Right_Tringle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_16_2D_Multiplication_Table.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_17_2D_Left_Traingel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_Even_Or_Odd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_InterviewQuestion.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Lab_InterviewVobelandConst.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_Largest_of_ThreeNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_Max_Of_TwoNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_Negative_0r_Postive.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_Palindrome_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_Practice_01_Ternary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_Practice_02_Ternary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_Practice_03_Ternary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_Practice_04_TypeCaseting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_Samallest_ofTwono.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_StringBuilder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_UD_Part1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab_Vowel_Or_Consonent.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Program1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question_1_Basic_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerInput.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerInput1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test_Q_1_Basic_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test_Q_2_Compare_String.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test_Q_3_Performance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.example.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Admin/Desktop/LearningJavaATB13XProgram/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Java001_Java_Basic.executor": "Run",
+    "Application.Java001_Veriable.executor": "Run",
+    "Application.Java002_Java_Basic2.executor": "Run",
+    "Application.Lab002ShortcutHw.executor": "Run",
+    "Application.Lab004_Comment.executor": "Run",
+    "Application.Lab_01_ENUM.executor": "Run",
+    "Application.Lab_01_Exception_Unchecked.executor": "Run",
+    "Application.Lab_01_ForLoop.executor": "Run",
+    "Application.Lab_01_IIB.executor": "Run",
+    "Application.Lab_01_IfElse.executor": "Run",
+    "Application.Lab_01_Increment_Op.executor": "Run",
+    "Application.Lab_01_MaxandMin.executor": "Debug",
+    "Application.Lab_01_Method_Function.executor": "Run",
+    "Application.Lab_01_OOPs_Constructor.executor": "Run",
+    "Application.Lab_01_Primitive_Wrapper.executor": "Run",
+    "Application.Lab_01_PrintNoFrom_1_to_10.executor": "Run",
+    "Application.Lab_01_StringBilder_VS_Buffer.executor": "Run",
+    "Application.Lab_01_Switch.executor": "Run",
+    "Application.Lab_01_Ternary.executor": "Run",
+    "Application.Lab_01_UserInput_Cli.executor": "Run",
+    "Application.Lab_01_static_IIB.executor": "Run",
+    "Application.Lab_02_Array.executor": "Run",
+    "Application.Lab_02_Constructor.executor": "Run",
+    "Application.Lab_02_ForLoop.executor": "Run",
+    "Application.Lab_02_IIB.executor": "Run",
+    "Application.Lab_02_IfElse_Cli.executor": "Run",
+    "Application.Lab_02_Increment_Op.executor": "Run",
+    "Application.Lab_02_Locatore.executor": "Run",
+    "Application.Lab_02_OOPs_Constructor.executor": "Run",
+    "Application.Lab_02_PrintEvenfrom_2_to_20.executor": "Run",
+    "Application.Lab_02_Static.executor": "Run",
+    "Application.Lab_02_StringBuffer.executor": "Run",
+    "Application.Lab_02_Switch_WithOutBreak.executor": "Run",
+    "Application.Lab_02_Ternary.executor": "Run",
+    "Application.Lab_02_UserInput_Cli2.executor": "Run",
+    "Application.Lab_03_Array.executor": "Run",
+    "Application.Lab_03_Constructor_Cat.executor": "Run",
+    "Application.Lab_03_FoorEvenNo.executor": "Run",
+    "Application.Lab_03_IfElse.executor": "Debug",
+    "Application.Lab_03_NullPointerException.executor": "Run",
+    "Application.Lab_03_OPPs_Constructor.executor": "Run",
+    "Application.Lab_03_PrintOddNoFrom2_to_20.executor": "Run",
+    "Application.Lab_03_Switch_NoDefault.executor": "Run",
+    "Application.Lab_03_TernaryMaxNo.executor": "Run",
+    "Application.Lab_03_TypeCasteing.executor": "Run",
+    "Application.Lab_03_UserDefineFunction.executor": "Run",
+    "Application.Lab_03_User_ScannerInput.executor": "Run",
+    "Application.Lab_03_Wrrapper_Conversion.executor": "Run",
+    "Application.Lab_04_Array_Print.executor": "Run",
+    "Application.Lab_04_Constructor_Class.executor": "Run",
+    "Application.Lab_04_FoorLoopDecrement.executor": "Run",
+    "Application.Lab_04_FunctionInterviewQuestion.executor": "Run",
+    "Application.Lab_04_Handle_Exception.executor": "Run",
+    "Application.Lab_04_Increment_Op.executor": "Run",
+    "Application.Lab_04_OPPs_Constructor.executor": "Run",
+    "Application.Lab_04_Real_Switch_Automatio.executor": "Run",
+    "Application.Lab_04_Sumoffirst_10_NaturalNo.executor": "Run",
+    "Application.Lab_04_TernaryMinNo.executor": "Run",
+    "Application.Lab_04_TypeCasteing.executor": "Run",
+    "Application.Lab_04_User_ScannerInput.executor": "Run",
+    "Application.Lab_05.executor": "Run",
+    "Application.Lab_05_Decrement_Op.executor": "Run",
+    "Application.Lab_05_FoorNaturalno.executor": "Run",
+    "Application.Lab_05_OOPs_Parametrise_Constructor.executor": "Run",
+    "Application.Lab_05_OPPS.executor": "Run",
+    "Application.Lab_05_Scanner_Array.executor": "Run",
+    "Application.Lab_05_Static_WebAutomation.executor": "Run",
+    "Application.Lab_05_SubtractofNatural_no.executor": "Run",
+    "Application.Lab_05_TernaryEveen.executor": "Run",
+    "Application.Lab_05_Try_Catch.executor": "Run",
+    "Application.Lab_05_TypeCaseting.executor": "Run",
+    "Application.Lab_06_Decrement_Op.executor": "Debug",
+    "Application.Lab_06_ForLoopEven.executor": "Run",
+    "Application.Lab_06_Interview2.executor": "Run",
+    "Application.Lab_06_Multi_Catch.executor": "Run",
+    "Application.Lab_06_NestedTenaryAgeVarifaction.executor": "Run",
+    "Application.Lab_06_Pc_Real_Paramaterized_Constructor.executor": "Run",
+    "Application.Lab_06_PrintNoInReverse_Order.executor": "Run",
+    "Application.Lab_06_Reverse_Array.executor": "Run",
+    "Application.Lab_06_TypeCaseting.executor": "Run",
+    "Application.Lab_07_Constructor_OverLoading.executor": "Run",
+    "Application.Lab_07_ForLoopOddNo.executor": "Run",
+    "Application.Lab_07_MultiplicationofTable_5.executor": "Run",
+    "Application.Lab_07_NestedTenaryOprate.executor": "Run",
+    "Application.Lab_07_Sum_OfArray.executor": "Run",
+    "Application.Lab_07_Try_Catch.executor": "Run",
+    "Application.Lab_07_TypeCasteing.executor": "Run",
+    "Application.Lab_08_2ND_LargestNoOf_Array.executor": "Run",
+    "Application.Lab_08_Combine_Try_Catch.executor": "Run",
+    "Application.Lab_08_CoutDigit_In_No.executor": "Run",
+    "Application.Lab_08_FoorLoopReverse.executor": "Run",
+    "Application.Lab_08_JDK13ABOVE.executor": "Run",
+    "Application.Lab_09.executor": "Run",
+    "Application.Lab_09_CLI_StringArray.executor": "Run",
+    "Application.Lab_09_CLI_StringArray_ForEach.executor": "Run",
+    "Application.Lab_09_ForTable.executor": "Run",
+    "Application.Lab_09_JDK.executor": "Run",
+    "Application.Lab_09_ReversetheNo.executor": "Run",
+    "Application.Lab_09_Try_Catch.executor": "Run",
+    "Application.Lab_10_Array_FindElement_Linear_Search.executor": "Run",
+    "Application.Lab_10_ForTable2.executor": "Run",
+    "Application.Lab_10_Interview.executor": "Run",
+    "Application.Lab_10_PalindoramNo.executor": "Run",
+    "Application.Lab_10_Try_Catch_Finally.executor": "Run",
+    "Application.Lab_11_ArrayCopy.executor": "Run",
+    "Application.Lab_11_ForSumOfNatural.executor": "Run",
+    "Application.Lab_11_GradeMarkes.executor": "Run",
+    "Application.Lab_11_Leapyear.executor": "Run",
+    "Application.Lab_11_TryCatch_Finally_Purpose.executor": "Run",
+    "Application.Lab_12_ForVobule.executor": "Run",
+    "Application.Lab_13_MarkesToGrade_Switch.executor": "Run",
+    "Application.Lab_13_Switch_Voble.executor": "Run",
+    "Application.Lab_14_Jr_QA_Sr_QA_1.executor": "Run",
+    "Application.Lab_15_2D_Array_Iteration_ForLoop.executor": "Run",
+    "Application.Lab_15_2D_Right_Tringle.executor": "Run",
+    "Application.Lab_15_IQ.executor": "Run",
+    "Application.Lab_16_2D_Multiplication_Table.executor": "Run",
+    "Application.Lab_16_IQ.executor": "Run",
+    "Application.Lab_17_2D_Left_Traingel.executor": "Run",
+    "Application.Lab_18_Throw_Only_NotThrows.executor": "Run",
+    "Application.Lab_20_Custom_Exception.executor": "Run",
+    "Application.Lab_Even_Or_Odd.executor": "Run",
+    "Application.Lab_InterviewQuestion.executor": "Debug",
+    "Application.Lab_InterviewVobelandConst.executor": "Run",
+    "Application.Lab_Largest_of_ThreeNo.executor": "Run",
+    "Application.Lab_Max_Of_TwoNo.executor": "Run",
+    "Application.Lab_Negative_0r_Postive.executor": "Run",
+    "Application.Lab_Palindrome_String.executor": "Run",
+    "Application.Lab_Practice_01_Ternary.executor": "Run",
+    "Application.Lab_Practice_02_Ternary.executor": "Run",
+    "Application.Lab_Practice_03_Ternary.executor": "Run",
+    "Application.Lab_Practice_04_TypeCaseting.executor": "Run",
+    "Application.Lab_Samallest_ofTwono.executor": "Run",
+    "Application.Lab_StringBuilder.executor": "Run",
+    "Application.Lab_UD_Part1.executor": "Run",
+    "Application.Lab_Vowel_Or_Consonent.executor": "Run",
+    "Application.Program1.executor": "Run",
+    "Application.Question_1_Basic_String.executor": "Run",
+    "Application.ScannerInput.executor": "Run",
+    "Application.ScannerInput1.executor": "Run",
+    "Application.Test_Q_1_Basic_String.executor": "Run",
+    "Application.Test_Q_2_Compare_String.executor": "Run",
+    "Application.Test_Q_3_Performance.executor": "Run",
+    "Application.example.executor": "Debug",
+    "Application.lab_06.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Admin/Desktop/LearningJavaATB13XProgram/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lab_06_Interface_Default_and_Static_Method">
-    <configuration name="Lab_02_Bank_Interest_Calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_Date_07_Abstract.Lab_02_Bank_Interest_Calculation" />
+}]]></component>
+  <component name="RunManager" selected="Application.Lab_20_Custom_Exception">
+    <configuration name="Lab_14_Jr_QA_Sr_QA_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24_Exceptions.Lab_14_Jr_QA_Sr_QA_1" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_Date_07_Abstract.*" />
+          <option name="PATTERN" value="ex_24_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_03_Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_Date_07_Abstract.Lab_03_Constructor" />
+    <configuration name="Lab_15_IQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24_Exceptions.Lab_15_IQ" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_Date_07_Abstract.*" />
+          <option name="PATTERN" value="ex_24_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_04_Abstract_VS_ConcereteMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_Date_07_Abstract.Lab_04_Abstract_VS_ConcereteMethod" />
+    <configuration name="Lab_16_IQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24_Exceptions.Lab_16_IQ" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_Date_07_Abstract.*" />
+          <option name="PATTERN" value="ex_24_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_05_Multiple_Inheritance_Using_Interfaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_Date_07_Abstract.Lab_05_Multiple_Inheritance_Using_Interfaces" />
+    <configuration name="Lab_18_Throw_Only_NotThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24_Exceptions.Lab_18_Throw_Only_NotThrows" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_Date_07_Abstract.*" />
+          <option name="PATTERN" value="ex_24_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_06_Interface_Default_and_Static_Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_Date_07_Abstract.Lab_06_Interface_Default_and_Static_Method" />
+    <configuration name="Lab_20_Custom_Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24_Exceptions.Lab_20_Custom_Exception" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_Date_07_Abstract.*" />
+          <option name="PATTERN" value="ex_24_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,22 +293,23 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Lab_02_Bank_Interest_Calculation" />
-      <item itemvalue="Application.Lab_03_Constructor" />
-      <item itemvalue="Application.Lab_04_Abstract_VS_ConcereteMethod" />
-      <item itemvalue="Application.Lab_05_Multiple_Inheritance_Using_Interfaces" />
-      <item itemvalue="Application.Lab_06_Interface_Default_and_Static_Method" />
+      <item itemvalue="Application.Lab_14_Jr_QA_Sr_QA_1" />
+      <item itemvalue="Application.Lab_15_IQ" />
+      <item itemvalue="Application.Lab_16_IQ" />
+      <item itemvalue="Application.Lab_18_Throw_Only_NotThrows" />
+      <item itemvalue="Application.Lab_20_Custom_Exception" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_06_Interface_Default_and_Static_Method" />
-        <item itemvalue="Application.Lab_05_Multiple_Inheritance_Using_Interfaces" />
-        <item itemvalue="Application.Lab_04_Abstract_VS_ConcereteMethod" />
-        <item itemvalue="Application.Lab_03_Constructor" />
-        <item itemvalue="Application.Lab_02_Bank_Interest_Calculation" />
+        <item itemvalue="Application.Lab_20_Custom_Exception" />
+        <item itemvalue="Application.Lab_18_Throw_Only_NotThrows" />
+        <item itemvalue="Application.Lab_16_IQ" />
+        <item itemvalue="Application.Lab_15_IQ" />
+        <item itemvalue="Application.Lab_14_Jr_QA_Sr_QA_1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="916a87df-2048-4f8d-ba12-a006f43af502" name="Changes" comment="" />
@@ -470,23 +494,31 @@
       <option name="project" value="LOCAL" />
       <updated>1751224140466</updated>
     </task>
-    <task id="LOCAL-00023" summary="Date 03">
+    <task id="LOCAL-00023" summary="Date 01-07">
       <option name="closed" value="true" />
-      <created>1751517936432</created>
+      <created>1751440092745</created>
       <option name="number" value="00023" />
       <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1751517936432</updated>
+      <updated>1751440092745</updated>
     </task>
-    <task id="LOCAL-00024" summary="Date 03">
+    <task id="LOCAL-00024" summary="Date 01-07">
       <option name="closed" value="true" />
-      <created>1751569284251</created>
+      <created>1751461740173</created>
       <option name="number" value="00024" />
       <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1751569284251</updated>
+      <updated>1751461740174</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Date 01-08">
+      <option name="closed" value="true" />
+      <created>1751972852819</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1751972852819</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -510,8 +542,9 @@
     <MESSAGE value="Date 25" />
     <MESSAGE value="Date 26" />
     <MESSAGE value="Date 29" />
-    <MESSAGE value="Date 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Date 03" />
+    <MESSAGE value="Date 01-07" />
+    <MESSAGE value="Date 01-08" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date 01-08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
