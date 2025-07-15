@@ -2,7 +2,6 @@ package ex_26_Collection_Framework_DSA.LIST;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 public class Lab_04_AL {
     public static void main(String[] args) {
