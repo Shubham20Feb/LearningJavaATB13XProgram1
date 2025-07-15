@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="916a87df-2048-4f8d-ba12-a006f43af502" name="Changes" comment="Date 01-08">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07-07-2025_20_13_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_07-07-2025_20_13__Changes_.xml" beforeDir="false" />
+    <list default="true" id="916a87df-2048-4f8d-ba12-a006f43af502" name="Changes" comment="Date 07-10">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-07-2025_09_24_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-07-2025_09_24__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_26_Collection_Framework_DSA/LIST/Lab_04_AL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_26_Collection_Framework_DSA/LIST/Lab_04_AL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,14 +62,11 @@
     "Application.Lab_01_IIB.executor": "Run",
     "Application.Lab_01_IfElse.executor": "Run",
     "Application.Lab_01_Increment_Op.executor": "Run",
-    "Application.Lab_01_MAP_P1.executor": "Run",
     "Application.Lab_01_MaxandMin.executor": "Debug",
     "Application.Lab_01_Method_Function.executor": "Run",
     "Application.Lab_01_OOPs_Constructor.executor": "Run",
     "Application.Lab_01_Primitive_Wrapper.executor": "Run",
     "Application.Lab_01_PrintNoFrom_1_to_10.executor": "Run",
-    "Application.Lab_01_SET_P1.executor": "Run",
-    "Application.Lab_01_Stack.executor": "Run",
     "Application.Lab_01_StringBilder_VS_Buffer.executor": "Run",
     "Application.Lab_01_Switch.executor": "Run",
     "Application.Lab_01_Ternary.executor": "Run",
@@ -79,12 +75,10 @@
     "Application.Lab_02_Array.executor": "Run",
     "Application.Lab_02_Constructor.executor": "Run",
     "Application.Lab_02_ForLoop.executor": "Run",
-    "Application.Lab_02_HS_LHS_TS_DIFF.executor": "Run",
-    "Application.Lab_02_HashMap_Example.executor": "Run",
+    "Application.Lab_02_Generic_Fix.executor": "Run",
     "Application.Lab_02_IIB.executor": "Run",
     "Application.Lab_02_IfElse_Cli.executor": "Run",
     "Application.Lab_02_Increment_Op.executor": "Run",
-    "Application.Lab_02_LinkedList.executor": "Run",
     "Application.Lab_02_Locatore.executor": "Run",
     "Application.Lab_02_OOPs_Constructor.executor": "Run",
     "Application.Lab_02_PrintEvenfrom_2_to_20.executor": "Run",
@@ -94,9 +88,9 @@
     "Application.Lab_02_Ternary.executor": "Run",
     "Application.Lab_02_UserInput_Cli2.executor": "Run",
     "Application.Lab_03_Array.executor": "Run",
+    "Application.Lab_03_ArrayList.executor": "Run",
     "Application.Lab_03_Constructor_Cat.executor": "Run",
     "Application.Lab_03_FoorEvenNo.executor": "Run",
-    "Application.Lab_03_HashMap.executor": "Run",
     "Application.Lab_03_IfElse.executor": "Debug",
     "Application.Lab_03_NullPointerException.executor": "Run",
     "Application.Lab_03_OPPs_Constructor.executor": "Run",
@@ -107,6 +101,7 @@
     "Application.Lab_03_UserDefineFunction.executor": "Run",
     "Application.Lab_03_User_ScannerInput.executor": "Run",
     "Application.Lab_03_Wrrapper_Conversion.executor": "Run",
+    "Application.Lab_04_AL.executor": "Run",
     "Application.Lab_04_Array_Print.executor": "Run",
     "Application.Lab_04_Constructor_Class.executor": "Run",
     "Application.Lab_04_FoorLoopDecrement.executor": "Run",
@@ -114,7 +109,6 @@
     "Application.Lab_04_Handle_Exception.executor": "Run",
     "Application.Lab_04_Increment_Op.executor": "Run",
     "Application.Lab_04_OPPs_Constructor.executor": "Run",
-    "Application.Lab_04_Real_Example.executor": "Run",
     "Application.Lab_04_Real_Switch_Automatio.executor": "Run",
     "Application.Lab_04_Sumoffirst_10_NaturalNo.executor": "Run",
     "Application.Lab_04_TernaryMinNo.executor": "Run",
@@ -123,7 +117,7 @@
     "Application.Lab_05.executor": "Run",
     "Application.Lab_05_Decrement_Op.executor": "Run",
     "Application.Lab_05_FoorNaturalno.executor": "Run",
-    "Application.Lab_05_Map_Iterate.executor": "Run",
+    "Application.Lab_05_LinkedList.executor": "Run",
     "Application.Lab_05_OOPs_Parametrise_Constructor.executor": "Run",
     "Application.Lab_05_OPPS.executor": "Run",
     "Application.Lab_05_Scanner_Array.executor": "Run",
@@ -134,8 +128,8 @@
     "Application.Lab_05_TypeCaseting.executor": "Run",
     "Application.Lab_06_Decrement_Op.executor": "Debug",
     "Application.Lab_06_ForLoopEven.executor": "Run",
-    "Application.Lab_06_HashTable.executor": "Run",
     "Application.Lab_06_Interview2.executor": "Run",
+    "Application.Lab_06_LinkList.executor": "Run",
     "Application.Lab_06_Multi_Catch.executor": "Run",
     "Application.Lab_06_NestedTenaryAgeVarifaction.executor": "Run",
     "Application.Lab_06_Pc_Real_Paramaterized_Constructor.executor": "Run",
@@ -143,11 +137,11 @@
     "Application.Lab_06_Reverse_Array.executor": "Run",
     "Application.Lab_06_TypeCaseting.executor": "Run",
     "Application.Lab_07_Constructor_OverLoading.executor": "Run",
+    "Application.Lab_07_Differences_Link_Array_List.executor": "Run",
     "Application.Lab_07_ForLoopOddNo.executor": "Run",
     "Application.Lab_07_MultiplicationofTable_5.executor": "Run",
     "Application.Lab_07_NestedTenaryOprate.executor": "Run",
     "Application.Lab_07_Sum_OfArray.executor": "Run",
-    "Application.Lab_07_TreeMap.executor": "Run",
     "Application.Lab_07_Try_Catch.executor": "Run",
     "Application.Lab_07_TypeCasteing.executor": "Run",
     "Application.Lab_08_2ND_LargestNoOf_Array.executor": "Run",
@@ -155,6 +149,7 @@
     "Application.Lab_08_CoutDigit_In_No.executor": "Run",
     "Application.Lab_08_FoorLoopReverse.executor": "Run",
     "Application.Lab_08_JDK13ABOVE.executor": "Run",
+    "Application.Lab_08_Vector.executor": "Run",
     "Application.Lab_09.executor": "Run",
     "Application.Lab_09_CLI_StringArray.executor": "Run",
     "Application.Lab_09_CLI_StringArray_ForEach.executor": "Run",
@@ -165,18 +160,14 @@
     "Application.Lab_10_Array_FindElement_Linear_Search.executor": "Run",
     "Application.Lab_10_ForTable2.executor": "Run",
     "Application.Lab_10_Interview.executor": "Run",
-    "Application.Lab_10_NestedArrayList.executor": "Run",
     "Application.Lab_10_PalindoramNo.executor": "Run",
     "Application.Lab_10_Try_Catch_Finally.executor": "Run",
     "Application.Lab_11_ArrayCopy.executor": "Run",
     "Application.Lab_11_ForSumOfNatural.executor": "Run",
     "Application.Lab_11_GradeMarkes.executor": "Run",
-    "Application.Lab_11_Interview.executor": "Run",
     "Application.Lab_11_Leapyear.executor": "Run",
     "Application.Lab_11_TryCatch_Finally_Purpose.executor": "Run",
     "Application.Lab_12_ForVobule.executor": "Run",
-    "Application.Lab_12_User_Input_AL.executor": "Debug",
-    "Application.Lab_13_All_Student.executor": "Run",
     "Application.Lab_13_MarkesToGrade_Switch.executor": "Run",
     "Application.Lab_13_Switch_Voble.executor": "Run",
     "Application.Lab_14_Jr_QA_Sr_QA_1.executor": "Run",
@@ -225,13 +216,13 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab_07_TreeMap">
-    <configuration name="Lab_03_HashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_26_Collection_Framework_DSA.MAP.Lab_03_HashMap" />
+  <component name="RunManager" selected="Application.Lab_07_Differences_Link_Array_List">
+    <configuration name="Lab_04_AL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_26_Collection_Framework_DSA.LIST.Lab_04_AL" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_26_Collection_Framework_DSA.MAP.*" />
+          <option name="PATTERN" value="ex_26_Collection_Framework_DSA.LIST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_04_Real_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_26_Collection_Framework_DSA.MAP.Lab_04_Real_Example" />
+    <configuration name="Lab_05_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_26_Collection_Framework_DSA.LIST.Lab_05_LinkedList" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_26_Collection_Framework_DSA.MAP.*" />
+          <option name="PATTERN" value="ex_26_Collection_Framework_DSA.LIST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_05_Map_Iterate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_26_Collection_Framework_DSA.MAP.Lab_05_Map_Iterate" />
+    <configuration name="Lab_06_LinkList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_26_Collection_Framework_DSA.LIST.Lab_06_LinkList" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_26_Collection_Framework_DSA.MAP.*" />
+          <option name="PATTERN" value="ex_26_Collection_Framework_DSA.LIST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_06_HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_26_Collection_Framework_DSA.MAP.Lab_06_HashTable" />
+    <configuration name="Lab_07_Differences_Link_Array_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_26_Collection_Framework_DSA.LIST.Lab_07_Differences_Link_Array_List" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_26_Collection_Framework_DSA.MAP.*" />
+          <option name="PATTERN" value="ex_26_Collection_Framework_DSA.LIST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab_07_TreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_26_Collection_Framework_DSA.MAP.Lab_07_TreeMap" />
+    <configuration name="Lab_08_Vector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_26_Collection_Framework_DSA.LIST.Lab_08_Vector" />
       <module name="LearningJavaATB13XProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_26_Collection_Framework_DSA.MAP.*" />
+          <option name="PATTERN" value="ex_26_Collection_Framework_DSA.LIST.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -311,19 +302,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Lab_03_HashMap" />
-      <item itemvalue="Application.Lab_04_Real_Example" />
-      <item itemvalue="Application.Lab_05_Map_Iterate" />
-      <item itemvalue="Application.Lab_06_HashTable" />
-      <item itemvalue="Application.Lab_07_TreeMap" />
+      <item itemvalue="Application.Lab_04_AL" />
+      <item itemvalue="Application.Lab_05_LinkedList" />
+      <item itemvalue="Application.Lab_06_LinkList" />
+      <item itemvalue="Application.Lab_07_Differences_Link_Array_List" />
+      <item itemvalue="Application.Lab_08_Vector" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab_07_TreeMap" />
-        <item itemvalue="Application.Lab_06_HashTable" />
-        <item itemvalue="Application.Lab_05_Map_Iterate" />
-        <item itemvalue="Application.Lab_04_Real_Example" />
-        <item itemvalue="Application.Lab_03_HashMap" />
+        <item itemvalue="Application.Lab_07_Differences_Link_Array_List" />
+        <item itemvalue="Application.Lab_08_Vector" />
+        <item itemvalue="Application.Lab_06_LinkList" />
+        <item itemvalue="Application.Lab_05_LinkedList" />
+        <item itemvalue="Application.Lab_04_AL" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +527,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751972852819</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Date 07-09">
+      <option name="closed" value="true" />
+      <created>1752070325399</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1752070325399</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Date 07-10">
+      <option name="closed" value="true" />
+      <created>1752159021945</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1752159021945</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -562,7 +569,9 @@
     <MESSAGE value="Date 29" />
     <MESSAGE value="Date 01-07" />
     <MESSAGE value="Date 01-08" />
-    <option name="LAST_COMMIT_MESSAGE" value="Date 01-08" />
+    <MESSAGE value="Date 07-09" />
+    <MESSAGE value="Date 07-10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date 07-10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -601,11 +610,6 @@
           <url>file://$PROJECT_DIR$/src/ex_13_Array/example.java</url>
           <line>5</line>
           <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ex_26_Collection_Framework_DSA/LIST/Lab_12_User_Input_AL.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ex_13_Array/Lab_01_MaxandMin.java</url>
