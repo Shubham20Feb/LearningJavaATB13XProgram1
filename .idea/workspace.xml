@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="916a87df-2048-4f8d-ba12-a006f43af502" name="Changes" comment="Date 07-10">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-07-2025_09_24_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-07-2025_09_24__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="916a87df-2048-4f8d-ba12-a006f43af502" name="Changes" comment="Date 07-11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -543,7 +539,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752159021945</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Date 07-11">
+      <option name="closed" value="true" />
+      <created>1752234986939</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1752234986940</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -571,7 +575,8 @@
     <MESSAGE value="Date 01-08" />
     <MESSAGE value="Date 07-09" />
     <MESSAGE value="Date 07-10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Date 07-10" />
+    <MESSAGE value="Date 07-11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Date 07-11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
