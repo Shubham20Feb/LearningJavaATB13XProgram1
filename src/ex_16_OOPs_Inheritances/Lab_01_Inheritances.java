@@ -29,7 +29,7 @@ class Father{
     int gold = 999; // Attribute | Data variables |  Property | Instance Variables
 
 
-    void bhk2(){  //  Behaviour |  Method | Function | Data members
+    void bhk2(){  //  Behavior |  Method | Function | Data members
         System.out.println("Have 2bhk ");
     }
 

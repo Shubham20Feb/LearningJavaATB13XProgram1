@@ -27,6 +27,10 @@ class Person {
     String name;
     String address;
     long phoneno;
+    //dc
+    Person(){
+        System.out.println("Default constructor");
+    }
 
     Person(String name_user, String address_user, long phoneno_user) {
         this.name = name_user;

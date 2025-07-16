@@ -13,16 +13,16 @@ public class Lab_02_Constructor {
 }
 
 class Student{
-    // Attribute
+    // Attribute, Properties , Instances Variable ,member variable
     String name ;
 
-   // Constructor
+   // Default Constructor
     Student(){
         System.out.println("Default constructor ");
 
     }
 
-    // function , behavioue
+    // function, behavior, Method ,member function
     void sleep(){
         System.out.println("sleeping");
     }
